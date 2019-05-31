@@ -12,13 +12,13 @@
 
 # Usage
 1. First, install the truffle framework and ganache-cli
-* ```npm install -g truffle```
+```npm install -g truffle```
 
 2. Migrate and compile the contracts
-* ```truffle migrate --compile-all```
+ ```truffle migrate --compile-all```
 
 3. Run the server
-* ```shell
-pipenv shell
-python app.py
+```shell
+	pipenv shell
+	python app.py
   ```
