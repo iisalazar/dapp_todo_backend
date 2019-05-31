@@ -19,7 +19,6 @@
 
 3. Run the server
 * ```shell
-	>>> pipenv shell
-	>>> python app.py
+pipenv shell
+python app.py
   ```
- 
