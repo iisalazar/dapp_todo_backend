@@ -22,3 +22,8 @@
 	pipenv shell
 	python app.py
   ```
+4. (OPTIONAL) Populate the database with dummy data
+```shell
+	# note that we are still in a virtual environment
+	python populate.py
+```
